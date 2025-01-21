@@ -7,4 +7,4 @@ Complete the provided starter code to build, compile, and train a neural network
 
 ## Proof of Participation
 
-![image](https://github.com/user-attachments/assets/b58dfd35-46cc-4295-bdb1-012ff1b15679)
+![image](https://github.com/user-attachments/assets/2b61635a-f0db-48d2-95e8-98e631b95b6a)
